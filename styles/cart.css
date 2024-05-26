@@ -1,0 +1,12 @@
+.container {
+	min-height: 100vh;
+	margin-top: 50px;
+}
+.cart_img {
+	width: 100px;
+	height: 80px;
+	object-fit: contain;
+}
+.cart_img img {
+	mix-blend-mode: color-burn;
+}
